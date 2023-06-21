@@ -1,4 +1,4 @@
-#include "maih.h"
+#include "main.h"
 /**
  * main - function that prints 10times the alphabet in lowercase
  * Return: 0 (success)
