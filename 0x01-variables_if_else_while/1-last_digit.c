@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * Main -Program will assign number to variable to be executed
+ * main - Program will assign number to variable to be executed
  * Return: 0 (success)
 */
 
