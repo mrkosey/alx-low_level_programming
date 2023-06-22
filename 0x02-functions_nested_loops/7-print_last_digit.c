@@ -1,4 +1,4 @@
-#include "msin.h"
+#include "main.h"
 
 /**
  * print_last_digit - Function that print last number of a digit
