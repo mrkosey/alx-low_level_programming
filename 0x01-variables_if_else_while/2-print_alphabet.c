@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - program that prints the alphabet in lowercase followed by a new line
  * Return - 0 (success)
@@ -9,7 +10,8 @@ int main(void)
 	char c;
 c = 'a';
 		while
-			(c <= 'z') {
+			(c <= 'z')
+			{
 				putchar(c);
 				c++;
 			}
