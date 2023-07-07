@@ -3,7 +3,7 @@
  * _strchr - function that locates a character in a string
  * @s: first input
  * @c: secound input
- * Return: 0 (Success)
+ * Return: 0  (Success)
  */
 char *_strchr(char *s, char c)
 {
